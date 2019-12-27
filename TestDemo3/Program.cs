@@ -10,6 +10,8 @@ namespace TestDemo3
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
+
         }
     }
 }
